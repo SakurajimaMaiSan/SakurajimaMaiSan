@@ -9,8 +9,8 @@
 ### 🌟 Welcome to my GitHub!
 
 <img src="https://img.shields.io/badge/👀_VISITORS-ec4899?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=ShiftingParadigm&style=for-the-badge&color=d6336c&label=" />
-<img src="https://img.shields.io/github/followers/ShiftingParadigm?style=for-the-badge&color=d6336c&label=FOLLOW%20ME&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=SakurajimaMaiSan&style=for-the-badge&color=d6336c&label=" />
+<img src="https://img.shields.io/github/followers/SakurajimaMaiSan?style=for-the-badge&color=d6336c&label=FOLLOW%20ME&labelColor=1a1a2e" />
 
 </div>
 
@@ -40,21 +40,19 @@ superpower: turning coffee into components
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,powerbi,sklearn,html,css,js,ts,git,github,vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,azure,sklearn,git,github" /> </p>
 
 ---
 
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShiftingParadigm&show_icons=true&hide=stars&hide_border=true&bg_color=FFE4EC&title_color=D6336C&text_color=333333&icon_color=D6336C&ring_color=D6336C" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShiftingParadigm&hide_border=true&background=FFE4EC&ring=D6336C&fire=D6336C&currStreakLabel=D6336C&sideLabels=333333&sideNums=333333&dates=999999" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakurajimaMaiSan&show_icons=true&hide=stars&hide_border=true&bg_color=FFE4EC&title_color=D6336C&text_color=333333&icon_color=D6336C&ring_color=D6336C" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SakurajimaMaiSan&hide_border=true&background=FFE4EC&ring=D6336C&fire=D6336C&currStreakLabel=D6336C&sideLabels=333333&sideNums=333333&dates=999999" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiftingParadigm&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=D6336C&text_color=333333" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakurajimaMaiSan&layout=compact&hide_border=true&bg_color=FFE4EC&title_color=D6336C&text_color=333333" />
 </p>
 
 ---
@@ -64,7 +62,7 @@ superpower: turning coffee into components
 <p align="center">
   <a href="https://www.linkedin.com/in/sushant-rathore-691509287"><img src="https://img.shields.io/badge/LinkedIn-D6336C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:23je1001@iitism.ac.in"><img src="https://img.shields.io/badge/Email-D6336C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ShiftingParadigm"><img src="https://img.shields.io/badge/Follow_Me-D6336C?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/SakurajimaMaiSan"><img src="https://img.shields.io/badge/Follow_Me-D6336C?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <sub>⭐ Star a repo if you like it — it makes my day and feeds the milk tea fund 💗</sub>
