@@ -40,8 +40,7 @@ superpower: turning coffee into components
 
 ### 🛠️ Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,azure,sklearn,git,github" /> </p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Python-D6336C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-D6336C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-D6336C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-D6336C?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-D6336C?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-D6336C?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-D6336C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Matplotlib-D6336C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Seaborn-D6336C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Plotly-D6336C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Cufflinks-D6336C?style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-D6336C?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-D6336C?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-D6336C?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-D6336C?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Git-D6336C?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-D6336C?style=for-the-badge&logo=github&logoColor=white" /> </p>
 ---
 
 ### 🔥 GitHub Stats
