@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Data+Analyst;Product+Analyst;Data+Engineer;Turning+data+into+decisions" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=f72585&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ShiftingParadigm&color=f72585&style=flat" />
 
 </div>
 
@@ -42,12 +42,12 @@ fun_fact: Debugging is 90% staring, 10% typing
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShiftingParadigm&show_icons=true&theme=radical&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiftingParadigm&layout=compact&theme=radical&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiftingParadigm&theme=radical&border_radius=10" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ fun_fact: Debugging is 90% staring, 10% typing
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiftingParadigm&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ fun_fact: Debugging is 90% staring, 10% typing
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ShiftingParadigm/ShiftingParadigm/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 > ⚠️ Snake needs a one-time GitHub Actions setup (I'll give you the workflow file if you want it — it auto-generates that animation daily).
@@ -73,7 +73,7 @@ fun_fact: Debugging is 90% staring, 10% typing
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShiftingParadigm&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
