@@ -66,9 +66,7 @@ fun_fact: Debugging is 90% staring, 10% typing
   <img src="https://raw.githubusercontent.com/ShiftingParadigm/ShiftingParadigm/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ Snake needs a one-time GitHub Actions setup (I'll give you the workflow file if you want it — it auto-generates that animation daily).
 
----
 
 ### 🏆 Trophies
 
